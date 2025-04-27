@@ -20,4 +20,4 @@ Yes, the source code published will sucessfully build to create a somewhat funct
 
 - Will you create update the client?
 
-Only for fixes.
+Fix it yourself i aint doing shit
