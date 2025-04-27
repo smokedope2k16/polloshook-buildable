@@ -3,6 +3,9 @@
 
 Leaked version of PollosHook Client Decompiled and Remapped for Yarn.
 
+# privatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evil
+privatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evil
+privatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evilprivatehook.evil
 
 ## FAQ
 
