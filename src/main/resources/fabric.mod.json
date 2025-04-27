@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "polloshook",
+	"version": "${version}",
+	"name": "PollosHook",
+	"description": "Decompiled source code of the client PollosHook",
+	"authors": [
+		"IEatHex__ - Reverse Engineer",
+		"Chachoox - Client Author",
+    	"291k - Client Author"
+	],
+	"contact": {
+		"homepage": "https://github.com/IEatHex/PollosHook-Open-Source/",
+	},
+	"license": "CC BY-NC-ND 4.0",
+	"icon": "assets/icons/icon_32x32.png",
+	"environment": "*",
+	"mixins": [
+		"polloshook.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
